@@ -152,9 +152,7 @@ The project includes JUnit test classes inside the `test` package. These tests c
 ## Author
 
 **Bibek Karki**
-
-- GitHub: [BibekKarki777](https://github.com/BibekKarki777)
-- LinkedIn: [Bibek Karki](https://www.linkedin.com/in/bibekkarkinp/)
+**Bidhan KC**
 
 ## License
 
