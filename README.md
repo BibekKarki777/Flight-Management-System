@@ -149,12 +149,6 @@ This project uses file-based persistence. Data is stored inside the `resources/d
 
 The project includes JUnit test classes inside the `test` package. These tests check important system components such as flights, customers, bookings, pricing, and the main flight booking system logic.
 
-## Important Note
-
-This project is created for academic and learning purposes. It uses local text files for data storage instead of a database.
-
-Before making the repository public, make sure the sample data does not contain real personal information such as real phone numbers, emails, or passwords.
-
 ## Author
 
 **Bibek Karki**
